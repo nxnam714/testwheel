@@ -1,0 +1,4 @@
+*.py[cd]
+*.egg-info
+build/
+dist/
